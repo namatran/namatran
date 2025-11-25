@@ -1,4 +1,6 @@
-# Hi I'm Nam Tran
+<div style="text-align: center;">
+  Hi I'm Nam Tran
+</div>   
 # About Me:
 I'm a 10th-grade student in the realm of coding and moreover, problem solving.
 
