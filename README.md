@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  Hi I'm Nam Tran
+  <h1>Hi I'm Nam Tran</h1>
 </div>   
 # About Me:
 I'm a 10th-grade student in the realm of coding and moreover, problem solving.
