@@ -1,7 +1,9 @@
 <div style="text-align: center;">
   <h1>Hi I'm Nam Tran</h1>
 </div>   
-# About Me:
+<div style="text-align: center;">
+  <h1>About Me:</h1>
+</div>   
 I'm a 10th-grade student in the realm of coding and moreover, problem solving.
 
 <!--
