@@ -1,5 +1,5 @@
 ### About Me:
-I'm a 10th-grade student.
+I'm a 10th-grade student in the realm of coding and moreover, problem solving.
 
 <!--
 - 🔭 I’m currently working on ...
