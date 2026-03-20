@@ -9,7 +9,6 @@ I'm also a content creator, posting calisthenics, martial arts, and other self-l
 
 ## 🌐 Socials:
 
-* [GitHub](https://github.com/namatran)
 * [LinkedIn](https://www.linkedin.com/in/nam-atran/)
 * [YouTube](https://www.youtube.com/@naminabush)
 * [Instagram](https://www.instagram.com/naminabush/)
