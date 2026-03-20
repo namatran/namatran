@@ -33,4 +33,6 @@ I'm also a content creator, posting calisthenics, martial arts, and other self-l
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-*Last updated: March 2026*
+
+
+*Last updated: March 19 2026*
