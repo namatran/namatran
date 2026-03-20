@@ -3,7 +3,7 @@
 I'm a 10th grade student from Houston interested in building **Full-Stack Applications** and real projects.
 
 ### 🌐 Socials:
--
+--
 
 * [GitHub](https://github.com/namatran)
 * [LinkedIn](https://www.linkedin.com/in/nam-atran/)
