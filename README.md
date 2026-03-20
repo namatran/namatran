@@ -1,11 +1,6 @@
-# 💫 About Me:
+## 💫 About Me:
 
-I'm a 10th grade student from Houston interested in **Full-Stack Web Development**, coding, and building real products that solve problems.
-
-👯 I'm looking to collaborate on: **Frontend Projects**, **Full-Stack Applications**, and **Open-Source Contributions**.
-
-🔗 **MY PORTFOLIO**: https://github.com/your-username  
-(Replace with your portfolio link or deployed projects)
+I'm a 10th grade student from Houston interested in building **Full-Stack Applications** and real projects.
 
 ### 🌐 Socials:
 
