@@ -13,8 +13,8 @@ I'm also a content creator, posting calisthenics, martial arts, and other self-l
 
 ## 🚀 What I'm Building
 
-Full-stack apps with React and Express
-Problem-solving through code and video content
+- Full-stack apps with React and Express
+- Problem-solving through code and video content (eventually)
 
 # 💻 Tech Stack:
 ### Languages:
@@ -22,12 +22,10 @@ Problem-solving through code and video content
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
 ### Libraries/Frameworks:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
