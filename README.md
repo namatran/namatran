@@ -2,7 +2,7 @@
 
 I'm a 10th grade student from Houston interested in building **Full-Stack Applications** and real projects.
 
-### 🌐 Socials:
+## 🌐 Socials:
 
 * [YouTube](https://www.youtube.com/@naminabush)
 * [Instagram](https://www.instagram.com/naminabush/)
