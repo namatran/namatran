@@ -9,10 +9,11 @@ I'm a 10th grade student from Houston interested in **Full-Stack Web Development
 
 ### 🌐 Socials:
 
-* [![YouTube](https://www.youtube.com/@naminabush)
-* [![Instagram](https://www.instagram.com/naminabush/)
-* [![GitHub](https://github.com/namatran)
-* [![LinkedIn](https://www.linkedin.com/in/nam-atran/)
+* [YouTube](https://www.youtube.com/@naminabush)
+* [Instagram](https://www.instagram.com/naminabush/)
+* [TikTok](https://www.tiktok.com/@naminabush)
+* [GitHub](https://github.com/namatran)
+* [LinkedIn](https://www.linkedin.com/in/nam-atran/)
 
 ## 💻 Tech Stack:
 
