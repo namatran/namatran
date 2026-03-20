@@ -1,3 +1,7 @@
+<div align="center">
+  <p>Chào, I'm Nam</p>
+</div>
+
 # 💫 About Me:
 
 I'm a 10th grade student from Houston interested in building **Full-Stack Applications** and real projects.
