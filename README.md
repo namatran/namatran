@@ -35,4 +35,4 @@ I'm also a content creator, posting calisthenics, martial arts, and other self-l
 
 
 
-*Last updated: March 19 2026*
+*Last updated: March 19, 2026*
