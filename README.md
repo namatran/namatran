@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 
 I'm a 10th grade student from Houston interested in building **Full-Stack Applications** and real projects.
 
@@ -10,7 +10,7 @@ I'm a 10th grade student from Houston interested in building **Full-Stack Applic
 * [GitHub](https://github.com/namatran)
 * [LinkedIn](https://www.linkedin.com/in/nam-atran/)
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ### Languages:
 
