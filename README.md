@@ -1,20 +1,18 @@
 # 💫 About Me:
 
-🎓 **High school student** building a portfolio for college admissions with a focus on **Business Technology** and **Entrepreneurship**. 
-
-🌱 I'm passionate about **Full-Stack Web Development**, **JavaScript**, and building real products that solve problems.
+I'm a 10th grade student from Houston interested in **Full-Stack Web Development**, coding, and building real products that solve problems.
 
 👯 I'm looking to collaborate on: **Frontend Projects**, **Full-Stack Applications**, and **Open-Source Contributions**.
-
-⚡ **Fun fact**: I debug better when my code is organized — good commit messages have saved me countless hours.
 
 🔗 **MY PORTFOLIO**: https://github.com/your-username  
 (Replace with your portfolio link or deployed projects)
 
 ### 🌐 Socials:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-username)
+* [![YouTube](https://www.youtube.com/@naminabush)
+* [![Instagram](https://www.instagram.com/naminabush/)
+* [![GitHub](https://github.com/namatran)
+* [![LinkedIn](https://www.linkedin.com/in/nam-atran/)
 
 ## 💻 Tech Stack:
 
