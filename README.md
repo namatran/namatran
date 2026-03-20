@@ -1,15 +1,12 @@
 # 💫 About Me:
 
 I'm a 10th grade student from Houston interested in building **Full-Stack Applications** and real projects.
+I'm also a content creator, posting calisthenics, martial arts, and other self-learning content:
 
-### 🌐 Socials:
---
+## 🌐 Socials:
 
 * [GitHub](https://github.com/namatran)
 * [LinkedIn](https://www.linkedin.com/in/nam-atran/)
-
-I'm also a content creator, posting calisthenics, martial arts, and other self-learning content:
-
 * [YouTube](https://www.youtube.com/@naminabush)
 * [Instagram](https://www.instagram.com/naminabush/)
 * [TikTok](https://www.tiktok.com/@naminabush)
