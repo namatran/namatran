@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Chào, I'm Nam</p>
+  <p>Hey, I'm Nam</p>
 </div>
 
 # 💫 About Me:
